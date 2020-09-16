@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 7c4474fca22e7ad44a09ecd3aad6e4b6
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Particle View 01
+    100002: "\u5BF9\u8C61010"
+    100004: "\u5BF9\u8C61011"
+    100006: "\u5BF9\u8C61012"
+    100008: "\u5BF9\u8C61013"
+    100010: "\u5BF9\u8C61014"
+    100012: //RootNode
+    100014: "\u7EC4277"
+    100016: WLWK-001
+    100018: WLWK-002
+    100020: WLWK-003
+    100022: WLWK-004
+    100024: WLWK-005
+    100026: "\u6DA1\u8F6E\u5916\u58F3"
+    100028: WLWK-006
+    100030: WLWK-007
+    400000: Particle View 01
+    400002: "\u5BF9\u8C61010"
+    400004: "\u5BF9\u8C61011"
+    400006: "\u5BF9\u8C61012"
+    400008: "\u5BF9\u8C61013"
+    400010: "\u5BF9\u8C61014"
+    400012: //RootNode
+    400014: "\u7EC4277"
+    400016: WLWK-001
+    400018: WLWK-002
+    400020: WLWK-003
+    400022: WLWK-004
+    400024: WLWK-005
+    400026: "\u6DA1\u8F6E\u5916\u58F3"
+    400028: WLWK-006
+    400030: WLWK-007
+    2100000: nei
+    2100002: qian
+    2100004: zhong
+    2100006: wei
+    2100008: yi
+    2300000: "\u5BF9\u8C61010"
+    2300002: "\u5BF9\u8C61011"
+    2300004: "\u5BF9\u8C61012"
+    2300006: "\u5BF9\u8C61013"
+    2300008: "\u5BF9\u8C61014"
+    2300010: WLWK-001
+    2300012: WLWK-002
+    2300014: WLWK-003
+    2300016: WLWK-004
+    2300018: WLWK-005
+    2300020: WLWK-006
+    2300022: WLWK-007
+    3300000: "\u5BF9\u8C61010"
+    3300002: "\u5BF9\u8C61011"
+    3300004: "\u5BF9\u8C61012"
+    3300006: "\u5BF9\u8C61013"
+    3300008: "\u5BF9\u8C61014"
+    3300010: WLWK-001
+    3300012: WLWK-002
+    3300014: WLWK-003
+    3300016: WLWK-004
+    3300018: WLWK-005
+    3300020: WLWK-006
+    3300022: WLWK-007
+    4300000: "\u5BF9\u8C61010"
+    4300002: "\u5BF9\u8C61011"
+    4300004: "\u5BF9\u8C61012"
+    4300006: "\u5BF9\u8C61013"
+    4300008: "\u5BF9\u8C61014"
+    4300010: WLWK-001
+    4300012: WLWK-002
+    4300014: WLWK-003
+    4300016: WLWK-004
+    4300018: WLWK-005
+    4300020: WLWK-006
+    4300022: WLWK-007
+    7400000: Take 001
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

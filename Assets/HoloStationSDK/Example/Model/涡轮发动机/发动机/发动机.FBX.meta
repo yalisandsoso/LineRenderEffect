@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 098f3d59a78d497448b27caf9480ca00
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: WLFDJ-001
+    100002: WLFDJ-002
+    100004: WLFDJ-003
+    100006: WLFDJ-004
+    100008: WLFDJ-005
+    100010: WLFDJ-006
+    100012: WLFDJ-007
+    100014: WLFDJ-008
+    100016: WLFDJ-009
+    100018: WLFDJ-010
+    100020: WLFDJ-011
+    100022: WLFDJ-012
+    100024: WLFDJ-013
+    100026: WLFDJ-014
+    100028: WLFDJ-015
+    100030: WLFDJ-016
+    100032: WLFDJ-017
+    100034: WLFDJ-018
+    100036: WLFDJ-019
+    100038: WLFDJ-020
+    100040: WLFDJ-021
+    100042: WLFDJ-022
+    100044: WLFDJ-023
+    100046: WLFDJ-024
+    100048: WLFDJ-025
+    100050: WLFDJ-026
+    100052: WLFDJ-027
+    100054: WLFDJ-028
+    100056: WLFDJ-029
+    100058: WLFDJ-030
+    100060: WLFDJ-031
+    100062: WLFDJ-032
+    100064: WLFDJ-033
+    100066: WLFDJ-034
+    100068: WLFDJ-035
+    100070: WLFDJ-036
+    100072: WLFDJ-037
+    100074: WLFDJ-038
+    100076: WLFDJ-039
+    100078: WLFDJ-040
+    100080: WLFDJ-041
+    100082: WLFDJ-042
+    100084: WLFDJ-043
+    100086: //RootNode
+    400000: WLFDJ-001
+    400002: WLFDJ-002
+    400004: WLFDJ-003
+    400006: WLFDJ-004
+    400008: WLFDJ-005
+    400010: WLFDJ-006
+    400012: WLFDJ-007
+    400014: WLFDJ-008
+    400016: WLFDJ-009
+    400018: WLFDJ-010
+    400020: WLFDJ-011
+    400022: WLFDJ-012
+    400024: WLFDJ-013
+    400026: WLFDJ-014
+    400028: WLFDJ-015
+    400030: WLFDJ-016
+    400032: WLFDJ-017
+    400034: WLFDJ-018
+    400036: WLFDJ-019
+    400038: WLFDJ-020
+    400040: WLFDJ-021
+    400042: WLFDJ-022
+    400044: WLFDJ-023
+    400046: WLFDJ-024
+    400048: WLFDJ-025
+    400050: WLFDJ-026
+    400052: WLFDJ-027
+    400054: WLFDJ-028
+    400056: WLFDJ-029
+    400058: WLFDJ-030
+    400060: WLFDJ-031
+    400062: WLFDJ-032
+    400064: WLFDJ-033
+    400066: WLFDJ-034
+    400068: WLFDJ-035
+    400070: WLFDJ-036
+    400072: WLFDJ-037
+    400074: WLFDJ-038
+    400076: WLFDJ-039
+    400078: WLFDJ-040
+    400080: WLFDJ-041
+    400082: WLFDJ-042
+    400084: WLFDJ-043
+    400086: //RootNode
+    2100000: zhouxin
+    2100002: qianduan
+    2100004: zhongzhou
+    2100006: qianduanlingjian
+    2100008: lingjian2
+    2100010: lingjian1
+    2100012: lingjian4
+    2100014: lingjian5
+    2100016: lingjian3
+    2100018: 'Material #30'
+    2300000: WLFDJ-001
+    2300002: WLFDJ-002
+    2300004: WLFDJ-003
+    2300006: WLFDJ-004
+    2300008: WLFDJ-005
+    2300010: WLFDJ-006
+    2300012: WLFDJ-007
+    2300014: WLFDJ-008
+    2300016: WLFDJ-009
+    2300018: WLFDJ-010
+    2300020: WLFDJ-011
+    2300022: WLFDJ-012
+    2300024: WLFDJ-013
+    2300026: WLFDJ-014
+    2300028: WLFDJ-015
+    2300030: WLFDJ-016
+    2300032: WLFDJ-017
+    2300034: WLFDJ-018
+    2300036: WLFDJ-019
+    2300038: WLFDJ-020
+    2300040: WLFDJ-021
+    2300042: WLFDJ-022
+    2300044: WLFDJ-023
+    2300046: WLFDJ-024
+    2300048: WLFDJ-025
+    2300050: WLFDJ-026
+    2300052: WLFDJ-027
+    2300054: WLFDJ-028
+    2300056: WLFDJ-029
+    2300058: WLFDJ-030
+    2300060: WLFDJ-031
+    2300062: WLFDJ-032
+    2300064: WLFDJ-033
+    2300066: WLFDJ-034
+    2300068: WLFDJ-035
+    2300070: WLFDJ-036
+    2300072: WLFDJ-037
+    2300074: WLFDJ-038
+    2300076: WLFDJ-039
+    2300078: WLFDJ-040
+    2300080: WLFDJ-041
+    2300082: WLFDJ-042
+    2300084: WLFDJ-043
+    3300000: WLFDJ-001
+    3300002: WLFDJ-002
+    3300004: WLFDJ-003
+    3300006: WLFDJ-004
+    3300008: WLFDJ-005
+    3300010: WLFDJ-006
+    3300012: WLFDJ-007
+    3300014: WLFDJ-008
+    3300016: WLFDJ-009
+    3300018: WLFDJ-010
+    3300020: WLFDJ-011
+    3300022: WLFDJ-012
+    3300024: WLFDJ-013
+    3300026: WLFDJ-014
+    3300028: WLFDJ-015
+    3300030: WLFDJ-016
+    3300032: WLFDJ-017
+    3300034: WLFDJ-018
+    3300036: WLFDJ-019
+    3300038: WLFDJ-020
+    3300040: WLFDJ-021
+    3300042: WLFDJ-022
+    3300044: WLFDJ-023
+    3300046: WLFDJ-024
+    3300048: WLFDJ-025
+    3300050: WLFDJ-026
+    3300052: WLFDJ-027
+    3300054: WLFDJ-028
+    3300056: WLFDJ-029
+    3300058: WLFDJ-030
+    3300060: WLFDJ-031
+    3300062: WLFDJ-032
+    3300064: WLFDJ-033
+    3300066: WLFDJ-034
+    3300068: WLFDJ-035
+    3300070: WLFDJ-036
+    3300072: WLFDJ-037
+    3300074: WLFDJ-038
+    3300076: WLFDJ-039
+    3300078: WLFDJ-040
+    3300080: WLFDJ-041
+    3300082: WLFDJ-042
+    3300084: WLFDJ-043
+    4300000: WLFDJ-001
+    4300002: WLFDJ-002
+    4300004: WLFDJ-003
+    4300006: WLFDJ-004
+    4300008: WLFDJ-005
+    4300010: WLFDJ-006
+    4300012: WLFDJ-007
+    4300014: WLFDJ-008
+    4300016: WLFDJ-009
+    4300018: WLFDJ-010
+    4300020: WLFDJ-011
+    4300022: WLFDJ-012
+    4300024: WLFDJ-013
+    4300026: WLFDJ-014
+    4300028: WLFDJ-015
+    4300030: WLFDJ-016
+    4300032: WLFDJ-017
+    4300034: WLFDJ-018
+    4300036: WLFDJ-019
+    4300038: WLFDJ-020
+    4300040: WLFDJ-021
+    4300042: WLFDJ-022
+    4300044: WLFDJ-023
+    4300046: WLFDJ-024
+    4300048: WLFDJ-025
+    4300050: WLFDJ-026
+    4300052: WLFDJ-027
+    4300054: WLFDJ-028
+    4300056: WLFDJ-029
+    4300058: WLFDJ-030
+    4300060: WLFDJ-031
+    4300062: WLFDJ-032
+    4300064: WLFDJ-033
+    4300066: WLFDJ-034
+    4300068: WLFDJ-035
+    4300070: WLFDJ-036
+    4300072: WLFDJ-037
+    4300074: WLFDJ-038
+    4300076: WLFDJ-039
+    4300078: WLFDJ-040
+    4300080: WLFDJ-041
+    4300082: WLFDJ-042
+    4300084: WLFDJ-043
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: 8333a21bc1b043c4c9847b3af3748ac3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian1
+    second: {fileID: 2100000, guid: a9428464abde33f48bd3946508149c49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian2
+    second: {fileID: 2100000, guid: 9a061f48c1e0cc64197412afef3527df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian3
+    second: {fileID: 2100000, guid: 93304097c7260f845a3ab20857dc516f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian4
+    second: {fileID: 2100000, guid: 98692d3a19c52404e9873fb69d55bbec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian5
+    second: {fileID: 2100000, guid: ec192a3dd75898641a27d74a422be139, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qianduan
+    second: {fileID: 2100000, guid: 47704d46bf3124949a8189ec311033d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qianduanlingjian
+    second: {fileID: 2100000, guid: f42ff5af0494f7d4c92d98390c0dcec6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zhongzhou
+    second: {fileID: 2100000, guid: fa6388b09aa2e4e41869b0274c04fa44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zhouxin
+    second: {fileID: 2100000, guid: 06d32f8f65d1f0147b10987804f9b89b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 1
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
